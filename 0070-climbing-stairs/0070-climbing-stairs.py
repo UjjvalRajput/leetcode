@@ -1,6 +1,8 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
         # for recursion - memoization, we can add another parameter seen to the function above:
+        # with memoization - O(n)
+        # without memoization - branching factor - 2, depth - n: O(2^n)
         # if seen is None:
         #     seen = {1:1, 2:2}
         # if n <= 2:
@@ -11,6 +13,8 @@ class Solution:
 
         # seen[n] = self.climbStairs(n-1, seen) + self.climbStairs(n-2, seen)
         # return seen[n]
+
+        # tabulation - bottom up - O(n)
         if n <= 2:
             return n
         
