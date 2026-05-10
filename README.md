@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0682-baseball-game](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0682-baseball-game) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjvalRajput/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UjjvalRajput/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
