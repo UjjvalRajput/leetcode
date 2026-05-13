@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Union-Find
 |  |
 | ------- |
@@ -95,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
