@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0704-binary-search) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UjjvalRajput/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UjjvalRajput/leetcode-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
