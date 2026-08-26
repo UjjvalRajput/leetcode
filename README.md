@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0611-valid-triangle-number](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0424-longest-repeating-character-replacement](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0844-backspace-string-compare) |
 ## Union-Find
@@ -115,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/UjjvalRajput/leetcode-practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
